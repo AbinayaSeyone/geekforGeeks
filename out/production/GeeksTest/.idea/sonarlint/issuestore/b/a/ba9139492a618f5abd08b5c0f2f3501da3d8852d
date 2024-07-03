@@ -1,0 +1,8 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÍæÈ×8Íî†½à1
+A
+java:S1659	"Declare "k" on a separate line.( ğ¸øÿÿÿÿ8Şî†½à1
+L
+java:S1197
+"*Move the array designators [] to the type.(³±çêÿÿÿÿÿ8ßî†½à1
+L	java:S106"+Replace this use of System.out by a logger.(±˜êúÿÿÿÿ8áî†½à1

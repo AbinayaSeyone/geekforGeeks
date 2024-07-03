@@ -1,0 +1,10 @@
+
+t	java:S127)"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8¯›ÇÀß1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÛÜý¢8±›ÇÀß1
+L	java:S106"+Replace this use of System.out by a logger.(Å®¦ºýÿÿÿÿ8‡œÇÀß1
+]	java:S125"<This block of commented-out lines of code should be removed.(–Å£Ñüÿÿÿÿ8¿àÍÀß1
+O
+java:S1481""-Remove this unused "maxCount" local variable.(áëý¼ùÿÿÿÿ8œÇÀß1
+]	java:S125/"<This block of commented-out lines of code should be removed.(ÄÌ©Çþÿÿÿÿ8ß»ÇÀß1
+J
+java:S1128".Remove this unused import 'java.util.TreeSet'.(½îB8­ÂËÀß1

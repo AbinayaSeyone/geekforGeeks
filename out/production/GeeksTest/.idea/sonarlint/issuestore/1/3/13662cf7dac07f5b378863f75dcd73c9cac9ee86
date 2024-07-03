@@ -1,0 +1,16 @@
+
+t	java:S127 "XRefactor the code in order to not assign to this loop counter from within the loop body.(¯ÀÚè8¥žÙÎÞ1
+y	java:S127#"XRefactor the code in order to not assign to this loop counter from within the loop body.(Œ¿»®ùÿÿÿÿ8¥žÙÎÞ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘·¡°ýÿÿÿÿ8¦žÙÎÞ1
+G	java:S106"+Replace this use of System.out by a logger.(¤¢¸þ8„ŸÙÎÞ1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö÷€­þÿÿÿÿ8…ŸÙÎÞ1
+]
+java:S1854";Remove this useless assignment to local variable "newWord".(–˜‘°øÿÿÿÿ8È“âÎÞ1
+R
+java:S1854"6Remove this useless assignment to local variable "se".(þˆ†@8†ŸÙÎÞ1
+C
+java:S1481"'Remove this unused "se" local variable.(þˆ†@8‰ŸÙÎÞ1
+N
+java:S1481",Remove this unused "newWord" local variable.(–˜‘°øÿÿÿÿ8Ë“âÎÞ1
+]	java:S125%"<This block of commented-out lines of code should be removed.(å¯«­ÿÿÿÿÿ8‹ŸÙÎÞ1
+]	java:S1251"<This block of commented-out lines of code should be removed.(Ž‘ñïùÿÿÿÿ8‹ŸÙÎÞ1

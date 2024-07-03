@@ -1,0 +1,72 @@
+class Solution {
+    public static int lastFairyStanding(int n, int k) {
+        class Node{
+        int value;
+        Node next;
+
+    public Node(int value){
+        this.value=value;
+        this.next=null;
+    }
+}
+class linkedlist{
+    Node front;
+    Node rear;
+    ArrayList<Integer> numbers = new ArrayList<>();
+    public void add(Node node){
+        if(front==null){
+            this.front=node;
+            this.rear=node;
+        }
+        else{
+            this.rear.next=node;
+            this.rear=node;
+            this.rear.next=this.front;
+        }
+
+    }
+    public  ArrayList<Integer> print(){
+        Node printNode=front;
+        while(printNode.next!=front){
+            numbers.add( printNode.value);
+            printNode=printNode.next;
+        }
+
+        numbers.add( printNode.value );
+        return numbers;
+    }
+
+}
+
+        linkedlist newList=new linkedlist();
+
+        for(int i=1;i<=n;i++){
+            Node nodei=new Node(i);
+            newList.add(nodei);
+        }
+        Node firstNode=newList.front;
+        Node nodeBeforeDelete=firstNode;
+        for(int j=1;j<=n-1;j++){
+
+            for(int l=1;l<k-1;l++){
+                nodeBeforeDelete=nodeBeforeDelete.next;
+            }
+
+            if(nodeBeforeDelete==newList.rear){
+                newList.front=nodeBeforeDelete.next.next;
+            }
+            nodeBeforeDelete.next=nodeBeforeDelete.next.next;
+            nodeBeforeDelete=nodeBeforeDelete.next;
+        }
+
+        ArrayList<Integer> fairies=new ArrayList<>();
+        fairies=newList.print();
+//        System.out.println(fairies.size());
+
+        return fairies.get( 0 );
+    }
+
+
+
+
+}

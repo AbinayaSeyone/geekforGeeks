@@ -1,0 +1,20 @@
+
+v
+java:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÇñÒ8ÈÎÄŞ1
+‡
+java:S1319"jThe type of "dictionary" should be an interface such as "List" rather than the implementation "ArrayList".(œç¾8ÈÎÄŞ1
+J
+java:S5411<"(Use a primitive boolean expression here.(Ä™ÀĞÿÿÿÿÿ8ŸÈÎÄŞ1
+J
+java:S5411E"(Use a primitive boolean expression here.(«ü––şÿÿÿÿ8ŸÈÎÄŞ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø´×Ã8 ÈÎÄŞ1
+R
+java:S1854"5Remove this useless assignment to local variable "n".(Î·Íâ8ÀÊÎÄŞ1
+C
+java:S1481"&Remove this unused "n" local variable.(Î·Íâ8ÁÊÎÄŞ1
+L	java:S106"+Replace this use of System.out by a logger.(±ÚÂ˜øÿÿÿÿ8ÅÊÎÄŞ1
+`
+java:S1659!">Declare "j" and all following declarations on a separate line.(Æ™‚ùÿÿÿÿ8ÈÊÎÄŞ1
+H
+java:S1481!"&Remove this unused "k" local variable.(Æ™‚ùÿÿÿÿ8ÈÊÎÄŞ1
+G	java:S106*"+Replace this use of System.out by a logger.(Ó÷‡—8ÊÊÎÄŞ1

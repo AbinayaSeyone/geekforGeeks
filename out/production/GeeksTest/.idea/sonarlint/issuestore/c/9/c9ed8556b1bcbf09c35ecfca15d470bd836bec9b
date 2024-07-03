@@ -1,0 +1,14 @@
+
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ØÆ»î8«ÈŞ1
+r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şø‡şÿÿÿÿ8«ÈŞ1
+r	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂşØÅıÿÿÿÿ8«ÈŞ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Ÿèáıÿÿÿÿ8«ÈŞ1
+L
+java:S1197"*Move the array designators [] to the type.(¡Ÿèáıÿÿÿÿ8Ô«ÈŞ1
+L	java:S106"+Replace this use of System.out by a logger.(ÿêÌ‘ıÿÿÿÿ8Õ«ÈŞ1
+E
+java:S1659."#Declare "start" on a separate line.(áéÊ‚ıÿÿÿÿ8×«ÈŞ1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ú°à¬8×«ÈŞ1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ú°à¬8×«ÈŞ1

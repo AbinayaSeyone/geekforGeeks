@@ -1,0 +1,45 @@
+
+// Back-end complete function Template for Java
+
+class Solution{
+    // Function to find the minimum value of the string after performing k operations
+    static int minValue(String s,int k){
+        // Array to store the frequency of each character
+        int freq[] = new int[26];
+
+        // Updating the frequency array based on the characters in the string
+        for(int i = 0;i < s.length();i++)
+			freq[s.charAt(i)-'a']++;
+
+		// Priority queue to store the frequencies in descending order
+		// Comparator is used to sort the elements in descending order
+		PriorityQueue<Integer> p=new PriorityQueue(s.length(), new Comparator<Integer>(){
+			public int compare(Integer i1,Integer i2){
+				return i2-i1;
+			}
+		});
+
+		// Adding the frequencies to the priority queue
+		for(int i = 0;i < 26;i++)
+		    p.add(freq[i]);
+
+	    // Performing k operations on the priority queue
+	    while(k-- > 0){
+		    int temp = p.peek();
+		    p.poll();
+		    temp = temp - 1;
+		    p.add(temp);
+		}
+
+		// Calculating the result based on the modified priority queue
+		int result = 0;
+		while(!p.isEmpty()){
+		    int x = p.peek();
+		    result += (x*x);
+		    p.poll();
+		}
+
+		// Returning the minimum value
+		return result;
+    }
+}

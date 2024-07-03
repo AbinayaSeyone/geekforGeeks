@@ -1,0 +1,17 @@
+
+9
+java:S1643"Use a StringBuilder instead.(¨ÄÓ’8Ú±šß1
+9
+java:S1643"Use a StringBuilder instead.(ÿÊ˜Æ8ßı²šß1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı÷¸’8Ú±šß1
+L
+java:S1197
+"*Move the array designators [] to the type.(¾¸—Øûÿÿÿÿ8“Û±šß1
+L	java:S106"+Replace this use of System.out by a logger.(ÃÎ‚Êÿÿÿÿÿ8•Û±šß1
+G	java:S106"+Replace this use of System.out by a logger.(µ¨ƒè8•Û±šß1
+L	java:S106"+Replace this use of System.out by a logger.(ÃÎ‚Êÿÿÿÿÿ8Úœ¸šß1
+G	java:S106"+Replace this use of System.out by a logger.(µ¨ƒè8Úœ¸šß1
+L	java:S106"+Replace this use of System.out by a logger.(àË Ÿşÿÿÿÿ8çÜ¹šß1
+]	java:S125%"<This block of commented-out lines of code should be removed.(ƒŞÑıÿÿÿÿ8ˆÆß1
+k
+java:S1128"NRemove this unused import 'com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput'.(ÓÒÒÃ8šÛ±šß1

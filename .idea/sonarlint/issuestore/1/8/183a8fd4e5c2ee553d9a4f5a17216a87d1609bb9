@@ -1,0 +1,24 @@
+
+Œ
+java:S1319"jThe type of "dictionary" should be an interface such as "List" rather than the implementation "ArrayList".(ğÅëøÿÿÿÿ8•ƒ²Ş1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(â°†í8—ƒ²Ş1
+R
+java:S1854
+"5Remove this useless assignment to local variable "n".(Î·Íâ8œ›ß¨Ş1
+C
+java:S1481
+"&Remove this unused "n" local variable.(Î·Íâ8›ß¨Ş1
+L	java:S106"+Replace this use of System.out by a logger.(±ÚÂ˜øÿÿÿÿ8Û„²Ş1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ğÅëøÿÿÿÿ8×„²Ş1
+]
+java:S1854"@Remove this useless assignment to local variable "arrayInOrder".(´ş´İ8Ë¥³Ş1
+J
+java:S1172"(Remove this unused method parameter "n".(ğÅëøÿÿÿÿ8Ø„²Ş1
+N
+java:S1481"1Remove this unused "arrayInOrder" local variable.(´ş´İ8Ë¥³Ş1
+]	java:S125'"<This block of commented-out lines of code should be removed.(¢„á¦ıÿÿÿÿ8Û„²Ş1
+]	java:S125*"<This block of commented-out lines of code should be removed.(ÚÓ¡·üÿÿÿÿ8Û„²Ş1
+L	java:S1063"+Replace this use of System.out by a logger.(£êúˆøÿÿÿÿ8İ„²Ş1
+G	java:S106="+Replace this use of System.out by a logger.(‡èœ¹8¨›ß¨Ş1
+]	java:S125F"<This block of commented-out lines of code should be removed.(ÃÚÙ¶üÿÿÿÿ8Ş„²Ş1

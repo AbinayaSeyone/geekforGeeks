@@ -1,0 +1,11 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(À¼©Æ8ÃıÁíŞ1
+L	java:S106
+"+Replace this use of System.out by a logger.(˜İÂ›ûÿÿÿÿ8ÑıÁíŞ1
+>
+java:S1116
+"Remove this empty statement.(˜İÂ›ûÿÿÿÿ8ÒıÁíŞ1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¸í¯üÿÿÿÿ8ÒıÁíŞ1
+X	java:S125"<This block of commented-out lines of code should be removed.(¸ìÉ8ÔıÁíŞ1
+N
+java:S1128"1Remove this unused import 'java.math.BigInteger'.(»Çâ€8ïÖÓíŞ1

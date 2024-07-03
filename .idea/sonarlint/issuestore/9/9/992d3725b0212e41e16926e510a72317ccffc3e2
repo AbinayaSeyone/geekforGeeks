@@ -1,0 +1,17 @@
+
+
+java:S1319A"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ñ´¥Ò8ıú—­Ü1
+n	java:S1011"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Äòç¤ıÿÿÿÿ8û—­Ü1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷®Ç”üÿÿÿÿ8‚û—­Ü1
+X	java:S125"<This block of commented-out lines of code should be removed.(½†Ş8êû—­Ü1
+G	java:S106F"+Replace this use of System.out by a logger.(¨Åè8òû—­Ü1
+G	java:S106K"+Replace this use of System.out by a logger.(¨Åè8õû—­Ü1
+f
+java:S1854["DRemove this useless assignment to local variable "nodeBeforeDelete".(ìÎ¯¿ûÿÿÿÿ8øû—­Ü1
+]	java:S125V"<This block of commented-out lines of code should be removed.(ğ–éªıÿÿÿÿ8üû—­Ü1
+X
+java:S1854y";Remove this useless assignment to local variable "fairies".(’³ŸÒ8ÿû—­Ü1
+G	java:S106~"+Replace this use of System.out by a logger.(‰Õ¯Ê8ƒü—­Ü1
+^	java:S125"<This block of commented-out lines of code should be removed.(™ÇÈ»úÿÿÿÿ8€­š­Ü1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8†ü—­Ü1
